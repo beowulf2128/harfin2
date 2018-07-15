@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# harfin2
+Rails/React/Webpack the js way
+>>>>>>> a690aced0b1afcbf9d104963199d2301b35cb595
